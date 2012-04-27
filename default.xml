@@ -12,6 +12,9 @@
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
            revision="ics" />
+  
+  <remote name = "privategh"
+           fetch="git://github.com/" />
 
   <default remote="aosp"
            sync-j="4" />
