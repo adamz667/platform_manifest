@@ -40,7 +40,7 @@
   <project path="device/htc/vivow" name="AOKP/android_device_htc_vivow" remote="gh" revision="ics" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="gh" revision="gingerbread" />
   <project path="device/htc/msm7x30-common" name="Andromadus/android_device_htc_msm7x30-common" remote="privategh" revision="ics"/>
-  <project path="device/htc/vision" name="Andromadus/android_device_htc_vision" remote="privategh" revision="ics" />
+  <project path="device/htc/vision" name="adamz667/android_device_htc_vision" remote="gh" revision="ics" />
   <project path="device/htc/msm8660-common" name="AOKP/android_device_htc_msm8660-common" remote="gh" revision="ics" />
   <project path="device/htc/pyramid" name="AOKP/android_device_htc_pyramid" remote="gh" revision="ics" />
   <project path="device/hp/tenderloin" name="AOKP/android_device_hp_tenderloin" remote="gh" revision="ics" />
@@ -287,12 +287,12 @@
   <project path="system/vold" name="AOKP/system_vold" remote="gh" revision="ics" />
 
   <project path="vendor/samsung" name="AOKP/vendor_samsung" remote="gh" revision="ics" />
-  <project path="vendor/aokp" name="AOKP/vendor_aokp" remote="gh" revision="ics" />
+  <project path="vendor/aokp" name="adamz667/vendor_aokp" remote="gh" revision="ics" />
   <project path="vendor/moto" name="AOKP/vendor_moto" remote="gh" revision="ics" />
   <project path="vendor/hp/tenderloin" name="AOKP/vendor_hp_tenderloin" remote="gh" revision="aokp" />
   <project path="vendor/htc" name="AOKP/vendor_htc" remote="gh" revision="ics" />
   <project path="vendor/htc/pyramid" name="AOKP/android_vendor_htc_pyramid" remote="gh" revision="ics" />
-  <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="privategh" revision="ics"/>
+  <project path="vendor/htc/vision" name="adamz667/proprietary_htc_vision" remote="gh" revision="ics"/>
   <project path="vendor/lge" name="AOKP/vendor_lge" remote="gh" revision="ics" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="gh" revision="ics" />
   <project path="vendor/amazon/otter" name="AOKP/vendor_amazon_otter" remote="gh" revision="ics" />
