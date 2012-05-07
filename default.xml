@@ -211,13 +211,14 @@
   <project path="hardware/cm" name="AOKP/hardware_cm" remote="gh" revision="ics" />
   <project path="hardware/broadcom/wlan" name="AOKP/android_hardware_broadcom_wlan" remote="gh" revision="ics" />
   <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="hardware/libhardware" name="AOKP/android_hardware_libhardware" remote="gh" revision="ics" />
-  <project path="hardware/libhardware_legacy" name="AOKP/android_hardware_libhardware_legacy" remote="gh" revision="ics" />
+  <project path="hardware/libhardware" name="Andromadus/android_hardware_libhardware" remote="privategh" revision="ics" />
+  <project path="hardware/libhardware_legacy" name="Andromadus/android_hardware_libhardware_legacy" remote="privategh" revision="ics" />
   <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="privategh" revision="ics" />
   <project path="hardware/qcom/camera" name="Andromadus/android_hardware_qcom_camera" remote="privategh" revision="ics" />
   <project path="hardware/msm7k" name="Andromadus/android_hardware_msm7k" remote="privategh" revision="ics" />
   <project path="hardware/qcom/gps" name="AOKP/hardware_qcom_gps" remote="gh" revision="ics" />
   <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" remote="privategh" revision="ics" />
+  <project path="kernel/htc/msm7x30" name="Andromadus/htc-kernel-msm7x30" remote="privategh" revision="android-msm-2.6.35-ics-bfs" />
   <project path="hardware/ril" name="AOKP/android_hardware_ril" remote="gh" revision="ics" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
@@ -269,7 +270,7 @@
   <project path="packages/providers/DownloadProvider" name="AOKP/packages_providers_DownloadProvider" revision="ics" remote="gh" />
   <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/providers/GoogleContactsProvider" name="platform/packages/providers/GoogleContactsProvider" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="packages/providers/MediaProvider" name="AOKP/packages_providers_MediaProvider" revision="ics" remote="gh" />
+  <project path="packages/providers/MediaProvider" name="CyanogenMod/android_packages_providers_MediaProvider" />
   <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/wallpapers/Basic" name="platform/packages/wallpapers/Basic" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
