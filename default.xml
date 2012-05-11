@@ -196,7 +196,7 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/yaffs2" name="AOKP/external_yaffs2" remote="gh" revision="ics" />
   <project path="external/zlib" name="AOKP/external_zlib" remote="gh" revision="ics" />
-  <project path="frameworks/base" name="AOKP/frameworks_base" remote="gh" revision="ics" />
+  <project path="frameworks/base" name="adamz667/frameworks_base" remote="gh" revision="ics" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" remote="gh" revision="ics" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" remote="gh" revision="ics" />
@@ -231,7 +231,7 @@
   <project path="packages/apps/Browser" name="AOKP/packages_apps_Browser" remote="gh" revision="ics" />
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="packages/apps/Camera" name="Andromadus/android_packages_apps_Camera" remote="gh" revision="ics" />
+  <project path="packages/apps/Camera" name="adamz667/android_packages_apps_Camera" remote="gh" revision="ics" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/Contacts" name="AOKP/packages_apps_Contacts" remote="gh" revision="ics" />
@@ -294,8 +294,6 @@
   <project path="vendor/aokp" name="adamz667/vendor_aokp" remote="gh" revision="ics" />
   <project path="vendor/moto" name="AOKP/vendor_moto" remote="gh" revision="ics" />
   <project path="vendor/hp/tenderloin" name="AOKP/vendor_hp_tenderloin" remote="gh" revision="aokp" />
-  <project path="vendor/htc" name="AOKP/vendor_htc" remote="gh" revision="ics" />
-  <project path="vendor/htc/pyramid" name="AOKP/android_vendor_htc_pyramid" remote="gh" revision="ics" />
   <project path="vendor/htc/vision" name="adamz667/proprietary_htc_vision" remote="gh" revision="ics"/>
   <project path="vendor/lge" name="AOKP/vendor_lge" remote="gh" revision="ics" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="gh" revision="ics" />
