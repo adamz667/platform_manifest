@@ -316,7 +316,7 @@
   <project path="packages/apps/GanOptimizer" name="CyanogenMod/android_packages_apps_GanOptimizer" remote="gh" revision="gb-release-7.2" />
   <project path="packages/apps/AppWidgetPicker" name="AOKP/packages_apps_AppWidgetPicker" remote="gh" revision="ics" />
  
-  <project path="hardware/qcom/display" name="adamz667/android_hardware_qcom_display" remote="gh" revision="ics" />
+  <project path="hardware/qcom/display" name="AOKP/android_hardware_qcom_display" remote="gh" revision="ics" />
   <project path="packages/apps/Camera" name="adamz667/packages_apps_Camera" remote="gh" revision="ics" />
   <project path="system/core" name="Andromadus/android_system_core" remote="gh" revision="ics" />
   <project path="device/htc/msm7x30-common" name="adamz667/device_htc_msm7x30-common" remote="gh" revision="ics" />
