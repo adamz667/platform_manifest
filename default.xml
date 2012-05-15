@@ -323,7 +323,8 @@
   <project path="device/htc/vision" name="adamz667/android_device_htc_vision" remote="gh" revision="ics" />
   <project path="vendor/aokp" name="adamz667/vendor_aokp" remote="gh" revision="ics" />
   <project path="vendor/htc/vision" name="adamz667/proprietary_htc_vision" remote="gh" revision="ics"/>
-
+  <project path="kernel/htc/msm7x30" name="Andromadus/htc-kernel-msm7x30" remote="privategh" revision="android-msm-2.6.35-ics-bfs" />
+  
   <project name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" revision="refs/heads/ics" remote="gh" />
   <project name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" path="vendor/tmobile/libs/com.tmobile.themes" revision="refs/heads/ics" remote="gh" />
   <project name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" path="vendor/tmobile/providers/ThemeManager" revision="refs/heads/ics" remote="gh" />
