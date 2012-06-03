@@ -189,7 +189,7 @@
   <project path="external/tinyalsa" name="platform/external/tinyalsa" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/tinyxml" name="platform/external/tinyxml" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/tremolo" name="platform/external/tremolo" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="external/v8" name="platform/external/v8" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
+  <project path="external/v8" name="CyanogenMod/android_external_v8" remote="gh" revision="ics"/>
   <project path="external/valgrind" name="platform/external/valgrind" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/webkit" name="AOKP/external_webkit" remote="gh" revision="ics" />
   <project path="external/webp" name="platform/external/webp" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
@@ -213,6 +213,7 @@
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="frameworks/support" name="platform/frameworks/support" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="hardware/alsa/sound" name="AOKP/hardware_alsa_sound" remote="gh" revision="ics" />
+  <project path="hardware/atheros/wlan" name="CyanogenMod/android_hardware_atheros_wlan" remote="gh" revision="ics" />
   <project path="hardware/cm" name="AOKP/hardware_cm" remote="gh" revision="ics" />
   <project path="hardware/broadcom/wlan" name="AOKP/android_hardware_broadcom_wlan" remote="gh" revision="ics" />
   <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
@@ -247,14 +248,14 @@
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="packages/apps/Launcher2" name="AOKP/android_packages_apps_Launcher2" remote="gh" revision="ics" />
+  <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/Mms" name="AOKP/packages_apps_Mms" remote="gh" revision="ics" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/Phone" name="AOKP/packages_apps_Phone" remote="gh" revision="ics" />
-  <project path="packages/apps/Protips" name="platform/packages/apps/Protips" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
+  <project path="packages/apps/AOKPtips" name="AOKP/packages_apps_AOKPtips" remote="gh" revision="ics"/>
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/Settings" name="AOKP/packages_apps_Settings" remote="gh" revision="ics" />
@@ -301,11 +302,11 @@
   <project path="vendor/htc" name="AOKP/vendor_htc" remote="gh" revision="ics" />
   <project path="vendor/lge" name="AOKP/vendor_lge" remote="gh" revision="ics" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="gh" revision="ics" />
-  <project path="vendor/amazon/otter" name="AOKP/vendor_amazon_otter" remote="gh" revision="ics" />
   <project path="vendor/acer" name="AOKP/vendor_acer" remote="gh" revision="ics" />
   <project path="vendor/asus" name="AOKP/vendor_asus" remote="gh" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-core" name="AOKP/android_vendor_qcom_opensource_omx_mm-core" remote="gh" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-video" name="AOKP/android_vendor_qcom_opensource_omx_mm-video" remote="gh" revision="ics" />
+  <project path="vendor/qcom/opensource/v8" name="AOKP/android_vendor_qcom_opensource_v8" remote="gh" revision="ics" />
   <project path="vendor/qcom/opensource/kernel-tests/mm-audio" name="AOKP/vendor_qcom_opensource_kernel-tests_mm-audio" remote="gh" revision="ics" />
 
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="gh" revision="ics" />
@@ -318,6 +319,7 @@
  
   <project path="hardware/qcom/display" name="adamz667/android_hardware_qcom_display" remote="gh" revision="ics" />
   <project path="packages/apps/Camera" name="adamz667/packages_apps_Camera" remote="gh" revision="ics" />
+  <project path="packages/apps/ROMControl" name="adamz667/packages_apps_ROMControl" remote="gh" revision="ics" />
   <project path="system/core" name="Andromadus/android_system_core" remote="gh" revision="ics" />
   <project path="device/htc/msm7x30-common" name="adamz667/device_htc_msm7x30-common" remote="gh" revision="ics" />
   <project path="device/htc/vision" name="adamz667/android_device_htc_vision" remote="gh" revision="ics" />
@@ -325,6 +327,8 @@
   <project path="vendor/htc/vision" name="adamz667/proprietary_htc_vision" remote="gh" revision="ics"/>
   <project path="kernel/htc/msm7x30" name="Andromadus/htc-kernel-msm7x30" remote="privategh" revision="android-msm-2.6.35-ics-bfs" />
   
+  <project path="packages/wallpapers/SwagPapers" name="AOKP/packages_wallpapers_SwagPapers" remote="gh" revision="ics" />
+
   <project name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" revision="refs/heads/ics" remote="gh" />
   <project name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" path="vendor/tmobile/libs/com.tmobile.themes" revision="refs/heads/ics" remote="gh" />
   <project name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" path="vendor/tmobile/providers/ThemeManager" revision="refs/heads/ics" remote="gh" />
