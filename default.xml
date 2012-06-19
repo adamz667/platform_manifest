@@ -257,7 +257,6 @@
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/Nfc" name="AOKP/packages_apps_Nfc" remote="gh" revision="ics"/>
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="packages/apps/Phone" name="AOKP/packages_apps_Phone" remote="gh" revision="ics" />
   <project path="packages/apps/AOKPtips" name="AOKP/packages_apps_AOKPtips" remote="gh" revision="ics"/>
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
@@ -270,7 +269,6 @@
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/experimental" name="platform/packages/experimental" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="packages/inputmethods/LatinIME" name="AOKP/packages_input_LatinIME" remote="gh" revision="ics" />
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
@@ -322,7 +320,9 @@
  
   <project path="hardware/qcom/display" name="adamz667/android_hardware_qcom_display" remote="gh" revision="ics" />
   <project path="packages/apps/Camera" name="adamz667/packages_apps_Camera" remote="gh" revision="ics" />
+  <project path="packages/apps/Phone" name="adamz667/packages_apps_Phone" remote="gh" revision="ics" />
   <project path="packages/apps/ROMControl" name="adamz667/packages_apps_ROMControl" remote="gh" revision="ics" />
+  <project path="packages/inputmethods/LatinIME" name="adamz667/packages_input_LatinIME" remote="gh" revision="ics" />
   <project path="device/htc/msm7x30-common" name="adamz667/device_htc_msm7x30-common" remote="gh" revision="ics" />
   <project path="device/htc/vision" name="adamz667/android_device_htc_vision" remote="gh" revision="ics" />
   <project path="vendor/aokp" name="adamz667/vendor_aokp" remote="gh" revision="ics" />
