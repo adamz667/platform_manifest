@@ -260,7 +260,6 @@
   <project path="packages/apps/Phone" name="AOKP/packages_apps_Phone" remote="gh" revision="jb-mr1" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
-  <project path="packages/apps/ROMControl" name="AOKP/packages_apps_ROMControl" remote="gh" revision="jb-mr1" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
   <project path="packages/apps/Settings" name="AOKP/packages_apps_Settings" remote="gh" revision="jb-mr1" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
@@ -341,11 +340,12 @@
 
   <project path="packages/wallpapers/SwagPapers" name="AOKP/packages_wallpapers_SwagPapers_v2" remote="gh" revision="jb-mr1" />
 
+  <project path="packages/apps/ROMControl" name="adamz667/packages_apps_ROMControl" remote="gh" revision="aokp4.2" />
   <project path="device/common" name="adamz667/android_device_common" remote="gh" revision="aokp4.2" />
   <project path="device/htc/vision" name="adamz667/android_device_htc_vision" remote="gh" revision="aokp4.2" />
   <project path="vendor/htc/vision" name="adamz667/proprietary_htc_vision" remote="gh" revision="aokp4.2" />
   <project path="device/htc/common" name="adamz667/android_device_htc_common" remote="gh" revision="aokp4.2" />
-  <project path="device/htc/msm7x30-common" name="adamz667/android_device_htc_msm7x30-common" remote="github" revision="aokp4.2" />
+  <project path="device/htc/msm7x30-common" name="adamz667/android_device_htc_msm7x30-common" remote="gh" revision="aokp4.2" />
   <project path="frameworks/av" name="adamz667/android_frameworks_av" remote="gh" revision="aokp4.2" />
   <project path="frameworks/base" name="adamz667/android_frameworks_base" remote="gh" revision="aokp4.2" />
   <project path="frameworks/native" name="adamz667/android_frameworks_native" remote="gh" revision="aokp4.2" />
@@ -355,7 +355,7 @@
   <project path="hardware/qcom/librpc" name="Andromadus/android_hardware_qcom_librpc" remote="gh" revision="jellybean" />
   <project path="hardware/qcom/audio" name="Andromadus/android_hardware_qcom_audio" remote="gh" revision="jb4.2" />
   <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" remote="gh" revision="jb4.2" />
-  <project path="prebuilt/linux-x86/toolchain/arm-eabi-linaro-4.7" name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" remote="github" revision="jellybean" />
+  <project path="prebuilt/linux-x86/toolchain/arm-eabi-linaro-4.7" name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" remote="gh" revision="jellybean" />
 
   <project path="platform_manifest" name="adamz667/platform_manifest" remote="gh" revision="aokp4.2" />
 </manifest>
